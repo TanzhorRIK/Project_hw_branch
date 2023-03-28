@@ -3,6 +3,6 @@ def f(s:str)->str.upper:
     return s.upper()
 
 
-def f_capitalize(s:str)->str.capitalize:
+def f_capitalize(s:):
     """This function return string.capitalize"""
     return s.capitalize()
