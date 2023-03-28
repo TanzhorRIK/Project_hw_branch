@@ -1,5 +1,5 @@
 def f(s:str)->str.upper:
-    """This function return string.upper"""
+    """This function return string"""
     return s.upper()
 
 
